@@ -1,0 +1,10 @@
+Overview
+
+Implement a simple FTP. 
+
+The sever is mulithreaded, allow multiple clients, support data transfer and file query at the same time.
+
+Whenever a client uploads a file, all the connected clients are informed the new file.	
+	
+  
+
